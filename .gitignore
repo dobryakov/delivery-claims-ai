@@ -1,0 +1,19 @@
+# Секреты
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Локальная БД / чекпоинты
+data/*.db
+*.sqlite
+*.sqlite3
+
+# Прочее
+.DS_Store
+.ipynb_checkpoints/
